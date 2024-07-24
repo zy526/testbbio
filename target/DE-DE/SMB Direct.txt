@@ -1,8 +1,8 @@
-$$$ $$$$$$
-$$$$$ $$$
-– $$$$$$$$$$$ $$$$$$ $$ $$$$$$ $$$$ $$ $$$ $$$$ $$$$$$$ $$$$$$
-$$$$$$$$$$$$ - $$$$$$$$$$$ $$ $$$$$$$ $$$$$$$$$ $$$ $$$$$ $$$$$$$$$ $$ $$$$$$$$ $$$$$ $$$ $$$$$$$$$ $$$$$$$ $$$$$$ $$$ $$$$$$
-$$$ $$$$$$ – $$$$ $$$$ $$$$$$$$$$ $$$$$$$ $$$ $$$$ $$$$ $$$$$$$$$$$, $$$$ $$$ $$$$$$$ $$$ $$$ $$$ $$$$$$$$$$$
-$$$$$$$$$$ – $$$$$$$$ $$$-$$-$$$ $$$$$$$$$$ $$$ $$$$$$$$ $$$$ $$$$$$$$$$$$$ $$ $$$$$$$$$$$$$ $$$$$$$$
-$$$$$$$$$ $$$$$$$ - $$$$$$$$ $$$$$$$$$$$ $$$$$$$$ $$$$$ $$ $$$$$$ $$$$$$$ $$$$$$$ $$$$$$$
-$$$$$$$$$$$ $$$$$$$$$$$$$ - $$$$$$$$$$$$$ $$$ $$$$$ $$$$$$ $$$$/$$$$$ $/$
+SMB Direkt
+Aufskalieren
+– <gleichzeitiger Zugriff auf gemeinsame Daten auf allen Dateiclusterknoten>
+Multichannel - Aggregation der Netzwerkbandbreite und Fehlertoleranz, wenn mehrere Pfade zwischen Client und Server verfügbar sind
+SMB Direct – fügt RDMA-Netzwerkunterstützung für sehr hohe Leistung mit geringer Latenz und geringer CPU-Auslastung hinzu
+Verschlüsselung – Bietet End-to-End-Verschlüsselung und schützt vor dem Abhören nicht vertrauenswürdiger Netzwerke
+Directory Leasing - Verbessert die Anwendungsreaktionszeiten in Zweigstellen durch Caching
+Leistungsoptimierungen - Optimierungen für kleine zufällige Lese-/Schreib-E/A
