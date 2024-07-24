@@ -1,8 +1,8 @@
-$$$ $$$$$$
-$$$$$ $$$
-– $$$$$$$$$$$ $$$$$$ $$ $$$$$$ $$$$ $$ $$$ $$$$ $$$$$$$ $$$$$$
-$$$$$$$$$$$$ - $$$$$$$$$$$ $$ $$$$$$$ $$$$$$$$$ $$$ $$$$$ $$$$$$$$$ $$ $$$$$$$$ $$$$$ $$$ $$$$$$$$$ $$$$$$$ $$$$$$ $$$ $$$$$$
-$$$ $$$$$$ – $$$$ $$$$ $$$$$$$$$$ $$$$$$$ $$$ $$$$ $$$$ $$$$$$$$$$$, $$$$ $$$ $$$$$$$ $$$ $$$ $$$ $$$$$$$$$$$
-$$$$$$$$$$ – $$$$$$$$ $$$-$$-$$$ $$$$$$$$$$ $$$ $$$$$$$$ $$$$ $$$$$$$$$$$$$ $$ $$$$$$$$$$$$$ $$$$$$$$
-$$$$$$$$$ $$$$$$$ - $$$$$$$$ $$$$$$$$$$$ $$$$$$$$ $$$$$ $$ $$$$$$ $$$$$$$ $$$$$$$ $$$$$$$
-$$$$$$$$$$$ $$$$$$$$$$$$$ - $$$$$$$$$$$$$ $$$ $$$$$ $$$$$$ $$$$/$$$$$ $/$
+PME directe
+Évoluer
+– <accès simultané aux données partagées sur tous les nœuds du cluster de fichiers>
+Multicanal - agrégation de la bande passante réseau et tolérance aux pannes si plusieurs chemins sont disponibles entre le client et le serveur
+SMB Direct – ajoute la prise en charge réseau RDMA pour des performances très élevées, avec une faible latence et une faible utilisation du processeur
+Chiffrement – Fournit un cryptage de bout en bout et protège contre les écoutes clandestines sur les réseaux non fiables
+Location d'annuaire – Améliore les temps de réponse des applications dans les succursales grâce à la mise en cache
+Optimisations des performances - optimisations pour les petites E/S de lecture/écriture aléatoires
