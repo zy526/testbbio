@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:level="1" m:version="2.10">
+<file datatype="x-undefined" original="Office 365.txt" source-language="en-us" target-language="fr-fr" m:begin-group-id="0" m:end-group-id="1" m:file-format="PLAIN_TEXT" m:job-uid="CmWw6WFOLc8reJTxC2STa3" m:project-uid="cfhEx0B0vmD48kveYzKe0r" m:task-id="tt51rx1uKNY1rhod3_dc2" m:transmem-ignore-tag-metadata="yes">
+<header>
+<m:in-ctx-preview-skel bilingual="false">
+<![CDATA[<html>
+<head>
+<style>
+body, span {white-space: pre;}
+</style>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta charset="UTF-8">
+</head>
+<body>
+<span><span id="m-tgroup_0" class="m-tgroup"></span> <span id="m-tgroup_1" class="m-tgroup"></span></span>
+</body>
+</html>]]>
+</m:in-ctx-preview-skel>
+</header>
+<body>
+
+<group id="0" m:para-id="0">
+<context-group>
+</context-group>
+<trans-unit id="tt51rx1uKNY1rhod3_dc2:0" m:confirmed="1" m:created-at="1722846084672" m:created-by="1321400" m:gross-score="0.8" m:level-edited="false" m:locked="false" m:modified-at="1722846553284" m:modified-by="1321400" m:para-id="0" m:score="0.8" m:trans-origin="mt" m:trans-origin-detail="qe_v4_calibrated" xml:space="preserve">
+<source>Office 365 is a cloud-based subscription service that brings together the best tools for the way people work today.</source>
+<target>Office 365 est un service d'abonnement basé sur le cloud qui réunit les meilleurs outils pour la façon dont les gens travaillent aujourd'hui. Manual confirmed</target>
+<alt-trans match-quality="0.0" origin="machine-trans"><target/></alt-trans>
+<alt-trans match-quality="0.0" origin="memsource-tm"><target/></alt-trans>
+<m:latest-trans-props>
+  <m:trans-prop name="score">0.8</m:trans-prop>
+  <m:trans-prop name="gross-score">0.8</m:trans-prop>
+  <m:trans-prop name="origin">mt</m:trans-prop>
+  <m:trans-prop name="origin-detail">qe_v4_calibrated</m:trans-prop>
+</m:latest-trans-props>
+<m:editing-stats>
+                            <m:editing-time>3</m:editing-time>
+                            <m:thinking-time>3</m:thinking-time>
+            </m:editing-stats>
+</trans-unit>
+</group>
+<group id="1" m:para-id="0">
+<context-group>
+</context-group>
+<trans-unit id="tt51rx1uKNY1rhod3_dc2:1" m:confirmed="1" m:created-at="1722846084672" m:created-by="1321400" m:gross-score="0.82" m:level-edited="false" m:locked="false" m:modified-at="1722846530019" m:modified-by="1321400" m:para-id="0" m:score="0.82" m:trans-origin="mt" m:trans-origin-detail="qe_v4_calibrated" xml:space="preserve">
+<source>By combining best-in-class apps with powerful cloud services, Office 365 lets anyone create and collaborate anywhere on any device.</source>
+<target>En combinant des applications de premier ordre avec des services cloud puissants, Office 365 permet à quiconque de créer et de collaborer n'importe où sur n'importe quel appareil. Manual confirmed</target>
+<alt-trans match-quality="0.0" origin="machine-trans"><target/></alt-trans>
+<alt-trans match-quality="0.0" origin="memsource-tm"><target/></alt-trans>
+<m:latest-trans-props>
+  <m:trans-prop name="score">0.82</m:trans-prop>
+  <m:trans-prop name="gross-score">0.82</m:trans-prop>
+  <m:trans-prop name="origin">mt</m:trans-prop>
+  <m:trans-prop name="origin-detail">qe_v4_calibrated</m:trans-prop>
+</m:latest-trans-props>
+<m:editing-stats>
+                            <m:editing-time>1181</m:editing-time>
+                            <m:thinking-time>1181</m:thinking-time>
+            </m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user fullname="Y Z" id="1321400" uid="V00sJKynZ7FmqA7vSHz4R7" username="zhongyuan526"/>
+</m:users>
+</m:extra>
+</xliff>
