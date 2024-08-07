@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tbx type="TBX-Core" style="dca" xml:lang="en" xmlns="urn:iso:std:iso:30042:ed-2">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TestTB</title>
+      </titleStmt>
+    </fileDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="0">
+        <langSec xml:lang="de-de">
+          <termSec>
+            <term>de</term>
+            <termNote type="termId">x3d0x55exvq5ob8wW3xg5XA61</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">zhongyuan526</termNote>
+            <termNote type="createdAt">1723009631907</termNote>
+            <termNote type="lastModifiedBy">zhongyuan526</termNote>
+            <termNote type="lastModifiedAt">1723009631907</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="fr-fr">
+          <termSec>
+            <term>fr</term>
+            <termNote type="termId">9GVLtZq0008mUjy0qheQA1x52</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">zhongyuan526</termNote>
+            <termNote type="createdAt">1723009632203</termNote>
+            <termNote type="lastModifiedBy">zhongyuan526</termNote>
+            <termNote type="lastModifiedAt">1723009632203</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+    </body>
+  </text>
+</tbx>
