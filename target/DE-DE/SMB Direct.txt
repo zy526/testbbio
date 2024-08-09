@@ -1,0 +1,8 @@
+SMB Direct
+Scale Out
+– <concurrent access to shared data on all file cluster nodes>
+Multichannel - aggregation of network bandwidth and fault tolerance if multiple paths are available between client and server
+SMB Direct – adds RDMA networking support for very high performance, with low latency and low CPU utilization
+Encryption – Provides end-to-end encryption and protects from eavesdropping on untrustworthy networks
+Directory Leasing - Improves application response times in branch offices through caching
+Performance Optimizations - optimizations for small random read/write I/O
